@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u107_img {
+#u106_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,13 +20,38 @@
   width:375px;
   height:667px;
 }
-#u107 {
+#u106 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:667px;
+}
+#u106_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u107_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:37px;
+  height:30px;
+}
+#u107 {
+  border-width:0px;
+  position:absolute;
+  left:9px;
+  top:25px;
+  width:37px;
+  height:30px;
 }
 #u107_text {
   border-width:0px;
@@ -42,16 +67,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:37px;
-  height:30px;
+  width:71px;
+  height:17px;
 }
 #u108 {
   border-width:0px;
   position:absolute;
-  left:9px;
-  top:25px;
-  width:37px;
-  height:30px;
+  left:151px;
+  top:113px;
+  width:71px;
+  height:17px;
 }
 #u108_text {
   border-width:0px;
@@ -67,16 +92,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:71px;
-  height:17px;
+  width:172px;
+  height:42px;
 }
 #u109 {
   border-width:0px;
   position:absolute;
-  left:151px;
-  top:113px;
-  width:71px;
-  height:17px;
+  left:107px;
+  top:167px;
+  width:172px;
+  height:42px;
 }
 #u109_text {
   border-width:0px;
@@ -87,32 +112,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u110_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:172px;
-  height:42px;
-}
 #u110 {
-  border-width:0px;
-  position:absolute;
-  left:107px;
-  top:167px;
-  width:172px;
-  height:42px;
-}
-#u110_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u111 {
   border-width:0px;
   position:absolute;
   left:13px;
@@ -122,7 +122,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u112 {
+#u111 {
   border-width:0px;
   position:absolute;
   left:13px;
