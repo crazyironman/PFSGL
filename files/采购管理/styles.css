@@ -47,3 +47,13 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u53 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:25px;
+  width:100px;
+  height:36px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
