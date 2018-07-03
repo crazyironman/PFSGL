@@ -177,3 +177,13 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u22 {
+  border-width:0px;
+  position:absolute;
+  left:93px;
+  top:48px;
+  width:198px;
+  height:52px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
